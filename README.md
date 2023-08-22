@@ -7,8 +7,8 @@ Use the arrow keys to navigate through the roads and SPACE to shoot the enemy ca
 
 # Screenshots
 
-[Imgur](https://i.imgur.com/RYHCi3B.png)
+[Opening](https://i.imgur.com/RYHCi3B.png)
 
-[Imgur](https://i.imgur.com/41TTx6M.png)
+[Gameplay](https://i.imgur.com/41TTx6M.png)
 
-[Imgur](https://i.imgur.com/T8G3w4z.jpg)
+[Lose](https://i.imgur.com/T8G3w4z.jpg)

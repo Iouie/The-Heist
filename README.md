@@ -2,4 +2,4 @@
 2D Unity Game similar to Asteroids
 
 
-Use the control keys to navigate through the roads and space to shoot the enemy cars and ultimately trying to survive.
+Use the arrow keys to navigate through the roads and SPACE to shoot the enemy cars. Your ultimate goal is to destroy as many cars as you can while avoiding them!
